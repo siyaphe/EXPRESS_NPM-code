@@ -1,5 +1,5 @@
 {
-  "name": "sample-project",
+  "name": "express",
   "version": "1.0.0",
   "description": "A sample project demonstrating the functionality of Node and npm.",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.19.2",
     "nodemon": "^3.1.0"
   }
 }
